@@ -1,0 +1,15 @@
+<!-- JQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</div> <!-- closing container div -->
+<div class="P22b0D"><div class="P3abce"><div class="P1UlOr"><div class="PRQpQN"><div class="P3GB0t">
+                    <div class="P3SNQw"></div><div class="P3ruc2">All MAPuzzles games are completely Free To Play</div></div>
+                <div class="P3GB0t"><div class="P3SNQw"></div><div class="P3ruc2">Play directly from your browser, no install needed</div></div>
+                <div class="P3GB0t"><div class="P3SNQw"></div>
+                    <div class="P3ruc2">MAPuzzles games for hardcore strategy gamers with a sharp tactical mind</div></div>
+                <div class="P3GB0t">
+                    <div class="P3SNQw"></div>
+                    <div class="P3ruc2">Play any time from any computer and never lose any progress</div></div></div></div></div></div>
+</body>
+</html>
